@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.952d7a30.css",
+    "main.css": "/static/css/main.d42cd016.css",
     "main.js": "/static/js/main.fe693cc8.js",
     "static/media/background.png": "/static/media/background.00d628de45be729c8627.png",
     "static/media/cat.svg": "/static/media/cat.b9f5be01509f39665d634e3d29a537c8.svg",
     "static/media/Team_Chess.png": "/static/media/Team_Chess.dd076bad7c82c68d98c3.png",
     "static/media/myLyfe.png": "/static/media/myLyfe.a17f87e9ea86280b5fc9.png",
     "index.html": "/index.html",
-    "main.952d7a30.css.map": "/static/css/main.952d7a30.css.map",
+    "main.d42cd016.css.map": "/static/css/main.d42cd016.css.map",
     "main.fe693cc8.js.map": "/static/js/main.fe693cc8.js.map"
   },
   "entrypoints": [
-    "static/css/main.952d7a30.css",
+    "static/css/main.d42cd016.css",
     "static/js/main.fe693cc8.js"
   ]
 }
