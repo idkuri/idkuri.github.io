@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.fa607b51.css",
-    "main.js": "/static/js/main.a6853dd4.js",
+    "main.css": "/static/css/main.b3b684e8.css",
+    "main.js": "/static/js/main.679cf14d.js",
     "static/media/background.png": "/static/media/background.00d628de45be729c8627.png",
     "static/media/mygoals.png": "/static/media/mygoals.a28e7409d60e009c4c1f.png",
     "static/media/chess_homepage.png": "/static/media/chess_homepage.0ebdd8b35337b359b88a.png",
-    "static/media/Resume.pdf": "/static/media/Resume.4d9f222567d01aaeab28.pdf",
     "static/media/cat.svg": "/static/media/cat.7a692b4ad0496e46a5669929f59c3eca.svg",
     "static/media/Team_Chess.png": "/static/media/Team_Chess.dd076bad7c82c68d98c3.png",
     "static/media/myLyfe.png": "/static/media/myLyfe.a17f87e9ea86280b5fc9.png",
     "index.html": "/index.html",
-    "main.fa607b51.css.map": "/static/css/main.fa607b51.css.map",
-    "main.a6853dd4.js.map": "/static/js/main.a6853dd4.js.map"
+    "main.b3b684e8.css.map": "/static/css/main.b3b684e8.css.map",
+    "main.679cf14d.js.map": "/static/js/main.679cf14d.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa607b51.css",
-    "static/js/main.a6853dd4.js"
+    "static/css/main.b3b684e8.css",
+    "static/js/main.679cf14d.js"
   ]
 }
