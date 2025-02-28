@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.b3b684e8.css",
-    "main.js": "/static/js/main.3ef932fd.js",
+    "main.css": "/static/css/main.dd50faee.css",
+    "main.js": "/static/js/main.ddbafa90.js",
     "static/media/background.png": "/static/media/background.00d628de45be729c8627.png",
     "static/media/mygoals.png": "/static/media/mygoals.a28e7409d60e009c4c1f.png",
-    "static/media/chess_homepage.png": "/static/media/chess_homepage.0ebdd8b35337b359b88a.png",
-    "static/media/cat.svg": "/static/media/cat.7a692b4ad0496e46a5669929f59c3eca.svg",
-    "static/media/Team_Chess.png": "/static/media/Team_Chess.dd076bad7c82c68d98c3.png",
+    "static/media/reversi.png": "/static/media/reversi.dc1808f33bf561d4a866.png",
+    "static/media/cat.svg": "/static/media/cat.b9f5be01509f39665d634e3d29a537c8.svg",
     "static/media/myLyfe.png": "/static/media/myLyfe.a17f87e9ea86280b5fc9.png",
+    "static/media/home-icon.svg": "/static/media/home-icon.f35255aa4bbf47c196f8f20b9274a4e0.svg",
+    "static/media/folder-icon.svg": "/static/media/folder-icon.e0b35bef062f05cf7d4e3d000a51e3eb.svg",
     "index.html": "/index.html",
-    "main.b3b684e8.css.map": "/static/css/main.b3b684e8.css.map",
-    "main.3ef932fd.js.map": "/static/js/main.3ef932fd.js.map"
+    "main.dd50faee.css.map": "/static/css/main.dd50faee.css.map",
+    "main.ddbafa90.js.map": "/static/js/main.ddbafa90.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3b684e8.css",
-    "static/js/main.3ef932fd.js"
+    "static/css/main.dd50faee.css",
+    "static/js/main.ddbafa90.js"
   ]
 }
